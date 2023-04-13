@@ -77,7 +77,7 @@ plugins {
 ...
 
 dependencies {
-    ksp("com.bennyhuo.kotlin:deepcopy-compiler-ksp:1.7.10.0")) // ksp
+    ksp("com.bennyhuo.kotlin:deepcopy-compiler-ksp:1.7.10.0") // ksp
     kapt("com.bennyhuo.kotlin:deepcopy-compiler-kapt:1.7.10.0") // kapt
     implementation("com.bennyhuo.kotlin:deepcopy-runtime:1.7.10.0")
 }
